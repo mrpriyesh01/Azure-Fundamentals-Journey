@@ -1,0 +1,28 @@
+🚀 Azure Learning Journey — Episode 1
+
+Today's topic: What is Cloud Computing? + Key Terms (HA, Scalability, Elasticity, Agility, Fault Tolerance, Disaster Recovery)
+
+☁️ What is Cloud Computing?
+In simple words: Instead of buying and maintaining your own computer/server, you rent computing power, storage, and software over the internet — pay only for what you use.
+
+Analogy: Think of electricity. You don't build your own power plant at home — you just plug in and pay for what you use. Cloud computing works the same way, but for servers, storage, and apps.
+
+🔑 Key Terms:
+
+📌 High Availability (HA) — System stays up and running almost all the time, even if something fails.
+Analogy: A hospital has backup generators — if main power goes, patients are never left without electricity.
+
+📌 Scalability — Ability to increase resources (CPU, storage) as demand grows.
+Analogy: A restaurant adding more tables and staff when a festival brings in extra customers.
+
+📌 Elasticity — Automatically scaling up AND down based on real-time demand.
+Analogy: A rubber band — stretches when needed, shrinks back when not. Cloud costs adjust the same way.
+
+📌 Agility — How quickly you can build, test, and deploy resources.
+Analogy: Ordering food on Zomato vs cooking from scratch — cloud lets you "order" a server in minutes, not weeks.
+
+📌 Fault Tolerance — System keeps working even if a part of it fails.
+Analogy: A car with a spare tire — one tire punctures, but the car still runs.
+
+📌 Disaster Recovery — Plan to restore systems and data after a major failure (fire, flood, cyberattack).
+Analogy: Keeping a copy of important documents in a bank locker — if your house burns down, you still have the originals safe elsewhere.
